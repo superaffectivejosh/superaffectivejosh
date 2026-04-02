@@ -3,7 +3,7 @@
 
 👋 Hey there, I'm Josh Stroud, your friendly Superaffective AI CEO. I'm based in San Francisco, Palo Alto, and Los Angeles, and I'm looking for my startup business co-founder. I have an engineering degree in MechE and EECS from [UC Berkeley](https://www.berkeley.edu/) and 2,000 commits on this [GitHub](https://github.com/superaffectivejosh). I love long walks on the beach, building AI startups, and building my net worth to $1B :) Join me in building my AI startup Superaffective AI and email me at josh@superaffective.ai.
 
-## Josh Stroud Technical Startup Founder Bio, 2015 - 2025
+## Josh Stroud Technical Startup Founder Bio, 2015 - 2026
 
 Josh Stroud built a Medical Device startup worth $60M called [Sana Health](https://hax.co/company/sana/) in November 2015 - May 2017. Josh Stroud raised a $20M Series A for Sana Health with great investors like Founders Fund and SOSV. Josh led the company as CTO leading engineering, product development, design, and software. Josh is experienced with hardware, software, and chips, and moved into the AI & Deep Learning startup revolution after Sana Health in 2017. Josh Stroud is experienced with AI and AI agents and writes beautiful and usable frontend and backend code across Javascript, React, HTML, Python, Node, C++, and Ruby on Rails. Josh Stroud is a competent manager and has managed a team of five engineering team members across engineering, software, and design. Josh Stroud loves to code and has over 2,000 GitHub commits as part of his [@superaffectivejosh GitHub](https://github.com/superaffectivejosh) :) 
 
