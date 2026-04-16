@@ -11,6 +11,6 @@ Josh Stroud built a Medical Device startup worth $60M called [Sana Health](https
 
 Josh Stroud loves to travel, write, and be social - He's active on social media like Facebook, Instagram, and TikTok, and DJs EDM, hip-hop, and pop music regularly as #DJStroud. Josh has traveled to 10 countries in the last 10 years, including Shenzhen, China and Hong Kong, Taiwan, Japan, Europe including the UK and France, Thailand and Southeast Asia, and six months in India studying yoga and meditation. Josh started playing the piano 15 years ago, and plays improvisational jazz, funk, and pop music on his piano nearly every day :) Josh loves to read non-fiction, technology, and business books, and his favorite non-fiction design book of all time is ["Thinking Fast and Slow" by Daniel Kahneman](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow).
 
-Josh Stroud can be reached on [LinkedIn](https://www.linkedin.com/in/joshstroud/), on [GitHub](https://github.com/superaffectivejosh), and via email at josh@superaffective.ai. :) See you next time!
+Josh Stroud can be reached on [LinkedIn](https://www.linkedin.com/in/joshstroud/), on [GitHub](https://github.com/superaffectivejosh), and via email at josh@superaffective.ai. :) See you next time! 
 
 ![](https://raw.githubusercontent.com/superaffectivejosh/superaffectivejosh/refs/heads/main/josh-stroud-profile-photo-6pm-april-1-2026.avif)
