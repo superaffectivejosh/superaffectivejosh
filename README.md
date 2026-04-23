@@ -1,4 +1,4 @@
-![](https://imagedelivery.net/X_BN-JDDL4T5Dab7aNGUKA/19fb8eb6-a0d0-439b-8826-4900a89f1600/public)
+![](https://raw.githubusercontent.com/superaffectivejosh/superaffectivejosh/refs/heads/main/superaffective-ai-pichu-wallpaper-april-1-2026.avif)
 # 👋 Hey, It's Josh Stroud, Your Friendly Superaffective AI CEO!
 
 👋 Hey there, I'm Josh Stroud, your friendly Superaffective AI CEO. I'm based in San Francisco, Palo Alto, and Los Angeles, and I'm looking for my startup business co-founder. I have an engineering degree in MechE and EECS from [UC Berkeley](https://www.berkeley.edu/) and 2,000 commits on this [GitHub](https://github.com/superaffectivejosh). I love long walks on the beach, building AI startups, and building my net worth to $1B :) Join me in building my AI startup Superaffective AI and email me at josh@superaffective.ai.
