@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/superaffectivejosh/superaffectivejosh/refs/heads/main/superaffective-ai-pichu-wallpaper-april-1-2026.avif)
+ ![](https://raw.githubusercontent.com/superaffectivejosh/superaffectivejosh/refs/heads/main/superaffective-ai-pichu-wallpaper-april-1-2026.avif)
 
 # 👋 Hey, It’s Josh Stroud, Your Friendly Superaffective AI CEO!
 
